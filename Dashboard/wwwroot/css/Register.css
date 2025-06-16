@@ -1,0 +1,14 @@
+﻿.btnCreate {
+    background-color: #1e88e5 !important;
+    color: white !important;
+    border: none !important;
+    padding: 12px;
+    border-radius: 6px !important;
+    width: 100% !important;
+    margin-top: 15px !important;
+    margin-bottom: 20px !important;
+}
+
+.btnCreate:hover {
+    background-color: deepskyblue !important;
+}

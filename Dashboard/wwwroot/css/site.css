@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 16px;
+    background-color: #f5f5f5 !important;
+}
+
+
+
+
+.container main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Start of register CSS */
+.form-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 40px;
+    width: 100%;
+    max-width: 450px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.form-title {
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.form-label {
+    font-size: 0.9rem;
+    margin-bottom: 6px;
+}
+
+.form-control {
+    padding: 10px 15px;
+    margin-bottom: 20px;
+}
+
+.form-check-label {
+    font-size: 0.9rem;
+}
+
+
+
+.login-text {
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 80px;
+}
+
+.login-link {
+    color: #1e88e5;
+    text-decoration: none;
+}
+/* End of register CSS */
+
+
